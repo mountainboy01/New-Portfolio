@@ -46,7 +46,7 @@ window.addEventListener("scroll",()=>{
 
 setTimeout(function(){
             $('.loader_bg').fadeToggle();
-        }, 2000);
+  });
 /** PRE LOADER END  **/
 
 /** TYPE JS**/
