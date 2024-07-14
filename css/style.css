@@ -201,6 +201,7 @@ nav ul li{
 .header .banner img
 {
 	//height: 300px;
+	display:none;
 }
 }
 /************ HEADER MEDIA QUERY ************/
