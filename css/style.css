@@ -188,6 +188,13 @@ nav ul li{
 /************ HEADER CSS END ************/
 
 /************ HEADER MEDIA QUERY ************/
+@media screen and (max-width: 425px){
+.header .banner-text h3{
+	font-size:16px;	
+}
+}
+
+/************ HEADER MEDIA QUERY ************/
 @media screen and (max-width: 768px){
 .header .banner img
 {
