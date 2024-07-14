@@ -190,9 +190,11 @@ nav ul li{
 /************ HEADER MEDIA QUERY ************/
 @media screen and (max-width: 425px){
 .header .banner-text h3{
-	font-size:16px;	
+	font-size:20px;	
 }
 }
+
+/************ HEADER MEDIA QUERY ************/
 
 /************ HEADER MEDIA QUERY ************/
 @media screen and (max-width: 768px){
