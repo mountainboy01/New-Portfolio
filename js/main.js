@@ -51,7 +51,7 @@ setTimeout(function(){
 
 /** TYPE JS**/
   var typed = new Typed('#element', {
-      strings: ['WEB DESIGNER','WEB DEVELOPER'],
+      strings: ['WEB DESIGNER'],
       loop:true,
       typeSpeed: 200,
     });
