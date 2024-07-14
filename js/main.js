@@ -37,7 +37,7 @@ window.addEventListener("scroll",()=>{
  
  scrollTop.addEventListener("click",()=>{
           window.scrollTo(0 ,0);
-     });      
+     },3000);      
 
  /***** ScrollTop Button*****/
 
@@ -51,7 +51,7 @@ setTimeout(function(){
 
 /** TYPE JS**/
   var typed = new Typed('#element', {
-      strings: ['WEB DESIGNER'],
+      strings: ['WEB DESIGNER','WEB DEVELOPER'],
       loop:true,
       typeSpeed: 200,
     });
